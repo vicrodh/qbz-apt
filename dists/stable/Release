@@ -1,0 +1,32 @@
+Origin: QBZ
+Label: QBZ
+Suite: stable
+Codename: stable
+Architectures: amd64 arm64
+Components: main
+Description: QBZ - Native Qobuz client for Linux
+Date: Fri, 06 Mar 2026 22:05:19 +0000
+MD5Sum:
+ d9c21c95e805e46fc5f8916981b29cfe              185 Release
+ 64a440281cf1359d8e3a742a4c944d37              712 main/binary-amd64/Packages
+ 17af31d4d61e78b6d20486c9c20f7424              525 main/binary-amd64/Packages.gz
+ 03db7e3a0348165cc3d00f469018c0d5              712 main/binary-arm64/Packages
+ 65f7742ab1d95c3e91d520b771137514              527 main/binary-arm64/Packages.gz
+SHA1:
+ 9346bff112d9dec465d149fb46a213962a2ab261              185 Release
+ a481790627f8ded97eb6bb89d2c4e9d0a9db567e              712 main/binary-amd64/Packages
+ ffb95b490cb426976c1b9ae10b733b2f77698716              525 main/binary-amd64/Packages.gz
+ 5ff0c0ec7ce37ecf6e068a53fc4e06ce47a7f927              712 main/binary-arm64/Packages
+ 58cd2662b7312fcc88ee82e89e093b4cbe7ed9f5              527 main/binary-arm64/Packages.gz
+SHA256:
+ 84c2b6f788f31663f1471a8fe55942c31414c43bca2d89ab09ac5196318cfe86              185 Release
+ 1817512bf583cda74c70393e87646134234b29bec0008ba4a17ebbb58c759b69              712 main/binary-amd64/Packages
+ 9e6ae4938c1627b5396e9f8a62093e5a907e51bf777045368ce3982db1477724              525 main/binary-amd64/Packages.gz
+ 0ccf669e53c0ea28597965ca936be46d630104c45a7d68a17258438475ab1fea              712 main/binary-arm64/Packages
+ db4c0c7e2972c41836079efea89998624943b80714a2aa7a1efef061459199ae              527 main/binary-arm64/Packages.gz
+SHA512:
+ 2ff6fc735e52653edb3cba2ab391ab28a284f6cecb401f4c9042d52dad150f4099c859cf54a7bcb6ec8a5e06486c6cc11730dea71c6c2cb1b29b6aee91a787bb              185 Release
+ d496013fda562feccefb45cc537e6b81befc3ca8ad3617a296e75813ad736e5fadde92999aae77fe73c8114cfa01518246507826cd40143b9db307b5999575b9              712 main/binary-amd64/Packages
+ d222f7484c5692165d8307d4cb9babfeedb4fd5022e3fa0544a9ad2f51d4219023166973a678cda11f693d16f17398ca67f880a1557c74df11f0fa82e7a26cb5              525 main/binary-amd64/Packages.gz
+ ddca7cf45371a7c888d2a38fe9949f68e500485983adb5035125e4716e78ef291f0e74c91a25d253358583c6c54ee6c72ba2e00c10acf44724b2ff2176fb459c              712 main/binary-arm64/Packages
+ 1a4e3d840854f06381be69b378335d3db0294792c8d71b5b3c0ae7f8dd7e20418c7243f695d89555ab8a755dd50391696273a8a55427b87791b4bfb7ebfd4a95              527 main/binary-arm64/Packages.gz
