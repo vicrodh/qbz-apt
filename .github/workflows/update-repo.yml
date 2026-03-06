@@ -37,6 +37,7 @@ jobs:
         env:
           INPUT_TAG: ${{ inputs.tag }}
           DISPATCH_TAG: ${{ github.event.client_payload.tag }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           TAG="${INPUT_TAG:-${DISPATCH_TAG:-}}"
           if [[ -z "$TAG" ]]; then
@@ -45,8 +46,6 @@ jobs:
           fi
           echo "tag=$TAG" >> "$GITHUB_OUTPUT"
           echo "Using tag: $TAG"
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Download .deb files from release
         env:
