@@ -50,7 +50,7 @@ jobs:
 
       - name: Download .deb files from release
         env:
-          GH_TOKEN: ${{ secrets.GH_PAT }}
+          GH_TOKEN: ${{ secrets.APT_REPO_TOKEN }}
           TAG: ${{ steps.tag.outputs.tag }}
         run: |
           mkdir -p staging

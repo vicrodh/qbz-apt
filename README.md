@@ -49,7 +49,7 @@ When a new release is published on [vicrodh/qbz](https://github.com/vicrodh/qbz)
 | Secret | Description |
 |---|---|
 | `GPG_PRIVATE_KEY` | Armored GPG private key for signing the repository |
-| `GH_PAT` | Personal access token with `repo` scope to read releases from `vicrodh/qbz` |
+| `APT_REPO_TOKEN` | Personal access token with `repo` scope to read releases from `vicrodh/qbz` |
 
 ### Generate GPG Key
 
@@ -59,7 +59,7 @@ gpg --full-generate-key
 # Name: QBZ APT Signing Key
 # Email: your-email
 
-# Export private key (add to GH_PAT secret)
+# Export private key (add to APT_REPO_TOKEN secret)
 gpg --armor --export-secret-keys "QBZ APT Signing Key" > qbz-apt-signing-key.asc
 
 # IMPORTANT: After adding to GitHub Secrets, delete the private key file
