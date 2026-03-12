@@ -1,0 +1,16 @@
+Package: qbz
+Version: 1.1.20
+Architecture: amd64
+Maintainer: blitzkriegfc
+Installed-Size: 77535
+Depends: libappindicator3-1, libwebkit2gtk-4.1-0, libgtk-3-0
+Recommends: alsa-utils
+Filename: pool/main/QBZ_1.1.20_amd64.deb
+Size: 31620868
+MD5sum: 9268303c5ddde1c1b3da5d5fb615bd3c
+SHA1: 594b1cc487faaf70bdcf1b6d5af9bfd86046a120
+SHA256: 9e4d0237221709b4f649790470833dffb29ad42ebacea94dd4fd013f79622ee5
+Priority: optional
+Description: Native Qobuz client with hi-res audio support
+ QBZ is a native high-fidelity client for Qobuz™ subscribers on Linux, designed for audiophiles who need bit-perfect playback without browser sample rate limitations. This application uses the Qobuz API but is not certified by Qobuz.
+
