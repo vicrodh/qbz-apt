@@ -1,0 +1,41 @@
+Package: qbz
+Version: 2.1.1
+Architecture: arm64
+Maintainer: Victor Rodriguez <vicrodh@users.noreply.github.com>
+Installed-Size: 296480
+Depends: libc6 (>= 2.35), libstdc++6, libasound2 | libasound2t64, libdbus-1-3, libssl3 | libssl3t64, libfontconfig1, libfreetype6, libxkbcommon0, libxkbcommon-x11-0, libxcb1, libxcb-cursor0, libxcb-icccm4, libxcb-image0, libxcb-keysyms1, libxcb-render-util0, libxcb-shape0, libxcb-xkb1, libx11-6, libgl1 | libgl1-mesa-glx, libegl1, zlib1g
+Recommends: libwayland-client0, libwayland-egl1, libwayland-cursor0, pipewire
+Conflicts: qbzd
+Provides: qbzd
+Filename: pool/main/QBZ_2.1.1_arm64.deb
+Size: 88644564
+MD5sum: 43d6e6d0fd383d2c9d04c557073ab5d2
+SHA1: 0f11f06929b96376908da0ca45af8df747e0af72
+SHA256: c9950154bcef5eba553bf19269c52adbd744c97ee87ac41dd2934452f2dc4a54
+Section: sound
+Priority: optional
+Homepage: https://github.com/vicrodh/qbz
+Description: Native Qobuz client with hi-res audio support.
+ Bit-perfect playback, DAC passthrough, offline cache, local library.
+
+Package: qbzd
+Version: 2.1.1
+Architecture: arm64
+Maintainer: Victor Rodriguez <vicrodh@users.noreply.github.com>
+Installed-Size: 30382
+Depends: libasound2 | libasound2t64
+Recommends: pipewire-bin, pulseaudio-utils, xdg-utils
+Conflicts: qbz
+Filename: pool/main/qbzd_2.1.1_arm64.deb
+Size: 11193078
+MD5sum: f5d9e6b93b05402c5be5f6c9e53bf861
+SHA1: d15a01be2c7f8590cf818a81b3d345f1e4bb0e29
+SHA256: 9e58e8996f9d569c0ac19ed3db318d98a6337f0c760943a4f87a0701f34b90e1
+Section: sound
+Priority: optional
+Homepage: https://github.com/vicrodh/qbz
+Description: QBZ headless daemon — Qobuz player for servers, Raspberry Pi and
+ other appliances. TUI setup wizard, QConnect renderer/receiver, local
+ library, offline cache. Includes an optional systemd user unit and can
+ generate service definitions for systemd, OpenRC, or runit.
+

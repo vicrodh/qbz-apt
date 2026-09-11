@@ -1,0 +1,51 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: QBZ
+Label: QBZ
+Suite: stable
+Codename: stable
+Architectures: amd64 arm64
+Components: main
+Description: QBZ - Native Qobuz client for Linux
+Date: Fri, 11 Sep 2026 22:58:48 +0000
+MD5Sum:
+ 6399f540cfaf6f330edce2d48aec0e0b              185 Release
+ 13c66cecbaad9a6a8b70071a02582158             1822 main/binary-amd64/Packages
+ a5afd411eec6d2887c1ac86ee961d779              971 main/binary-amd64/Packages.gz
+ cfd9c4a7837d4978352391ec5c8a1a77             1822 main/binary-arm64/Packages
+ 65815c0f64268069f990c3faa0adba73              971 main/binary-arm64/Packages.gz
+SHA1:
+ c2d83e5e8db885509b24306a194f403f0b30d795              185 Release
+ 32671f5f2a426d0890eaf9cbd29f763e88e5713b             1822 main/binary-amd64/Packages
+ a0982e9dee5395cb40c895d8312bc64593818239              971 main/binary-amd64/Packages.gz
+ be6d4ca958c2407e664497989b5b7fa9083192b5             1822 main/binary-arm64/Packages
+ 602dc1a59734783b1d7b893d4a941ed2d2894b71              971 main/binary-arm64/Packages.gz
+SHA256:
+ 2ff8c04f53efa0ade63d0b8c924accf7d3a33b7a33b063e40637155d1672d523              185 Release
+ 0423d95d9dbade7eb6a36b8f2d4b693cd17b77c0b6bb6c3628a70e17425b6a7a             1822 main/binary-amd64/Packages
+ 2bf13c8fec380b8b1ae9f170dd3e61b393eff4cd3242ed06131b6a045c96127b              971 main/binary-amd64/Packages.gz
+ dca242ffa3865d90381e84afbdd915576ea2d1946709294bbeab7213b4df9ed5             1822 main/binary-arm64/Packages
+ 7350ada3581993de35cf037e231dcbd307f74e809a1811f2c2125cdd0b1f5e5d              971 main/binary-arm64/Packages.gz
+SHA512:
+ 1e93e2caf93e49d94ff941bfe0a38f7ae2fc176446d20c0cdd3bdef36f5954094a8d3a820e66a90181e2c5fbc76ad612ec91ed6dfa30f9aa4a9c8c352506aa33              185 Release
+ 09e12f2d83e36d3466f169ca4fd1b448df687722b260ae96e9348a3cde40b553717f69f53123afeeeeedc4353385e74f6b9ebe9f43853c409896ac57838c45ca             1822 main/binary-amd64/Packages
+ a735ae0917bb7175b886cb419670288389fe03334ae5ccf20819fc8bf961678f030d4d8cd1f815ba4a78946cd98fc53acd58751fd865ed378aa5a5c5f03d859b              971 main/binary-amd64/Packages.gz
+ d07d03e4018f6cc30fce226514f0b69003d0b6b4465744da4eb2ff347fda91e754a44ffca5913c03758f2959f8c2681f3a3bba81953da9e3b6870d4779b01e62             1822 main/binary-arm64/Packages
+ 21bf811936d0f1339635d034a990079863bc111a6e681c759feb38c98382e363604510528fab650e7d54ccae4be354af9aff249a1cbda297560839d3f0b67e42              971 main/binary-arm64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEESIzZStzgzLCER3M1GgqSt6WGybgFAmqkh6gACgkQGgqSt6WG
+ybgDkxAApmrA1ncW48jBmz45yFDFqX2FwOoRN4AO8pW1SQ+wTToiFdikUaupKwZM
+cHsZupZUTSP1qcUFLjDBIE49uQMgfrspbJPqS/QtllTyZEdK+GZ4lJ2IRlvR4n6W
+DrTcL4E1w59nInDV6kJiNk8mPXRgIiebXn9armmhcsozMzRdmgIF/T2T1Y7JZudl
+tBAYsbSfa/nxssZYpmPYAJbbgPgFh43jGi2RzG95J1KNy3Zxcsl0DxFIramalljq
+LejEhAepqG4b0MSY921CXA3c/vBtRe6FbF1IYoxWBCdCQu2i6jjnWhElJ9lnnSSn
+fh2L2ydqRViWoDFqxE1+tWsvdLTq+JpJqwvKSWPHUzrioSgtnF3mqTWY5DIZfLbZ
+juMvwsubG6BqWSQdw0rg9dnwE6OVoMwcDD5wqOAuyYZWYma6kzPwxjsUyr1zufCX
+wgF8k6czyK/J4SEPg5xjQeFNwY8NJGdweVUDoUA86SlPUyXohK8mMVWrsDt5vatb
+R40aAkL145roxmzbmsvpv0r68pnKjFcSoZXDb0nOWNDMQYK1O7BC02wsh+Ccx4c7
+lAYzDBGfzitU4f88ipW8FY8i/ODBhyyQbijFmFVyP5YKq6i8991ASYtBU0MgyWx9
+cnLUPLcGXPy9eDt3e6RcNr+BN4+UYA4jrQU0mFISb78dJU8DCLA=
+=lWB7
+-----END PGP SIGNATURE-----
